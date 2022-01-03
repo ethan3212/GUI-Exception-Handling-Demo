@@ -1,0 +1,10 @@
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\bin\Debug\Manis_ExceptionHandlingDemoGUI.exe.config
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\bin\Debug\Manis_ExceptionHandlingDemoGUI.exe
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\bin\Debug\Manis_ExceptionHandlingDemoGUI.pdb
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.Form1.resources
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.Properties.Resources.resources
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.exe
+C:\Users\ethan\source\repos\Manis_ExceptionHandlingDemoGUI\obj\Debug\Manis_ExceptionHandlingDemoGUI.pdb
